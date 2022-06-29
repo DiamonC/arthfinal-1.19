@@ -103,7 +103,7 @@
 [16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.event.lifecycle.ClientLifecycleEventsImpl for mod fabric-lifecycle-events-v1 (key client)
 [16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl for mod fabric-lifecycle-events-v1 (key main)
 [16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.client.indigo.Indigo for mod fabric-renderer-indigo (key client)
-[16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.diamonc.arthfinal.TutorialModClient for mod arthfinal (key client)
+[16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.diamonc.arthfinal.ArthFinalClient for mod arthfinal (key client)
 [16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.diamonc.arthfinal.ArthFinal for mod arthfinal (key main)
 [16:39:47] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.mininglevel.FabricMiningLevelInit for mod fabric-mining-level-api-v1 (key main)
 [16:39:47] [main/DEBUG] (FabricLoader/Mappings) Loading mappings took 171 ms
