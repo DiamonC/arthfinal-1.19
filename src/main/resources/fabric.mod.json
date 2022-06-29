@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "arthfinal",
+  "version": "${version}",
+
+  "name": "Arth Final",
+  "description": "Adds a final item to the game.",
+  "authors": [
+    "DiamonC"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.diamonc.arthfinal.ArthFinal"
+    ],
+    "client": [
+      "net.diamonc.arthfinal.TutorialModClient"
+    ]
+  },
+  "mixins": [
+    "arthfinal.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
