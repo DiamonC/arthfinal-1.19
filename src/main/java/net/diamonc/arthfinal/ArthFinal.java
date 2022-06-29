@@ -17,7 +17,7 @@ public class ArthFinal implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-			registerModItems();
+			ModItems.registerModItems();
 
 		LOGGER.info("Hello Fabric world!");
 	}
