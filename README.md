@@ -6,4 +6,4 @@ We reccomend you download from Modrinth: https://modrinth.com/mod/arth-final. Al
 
 ## License
 
-This template is available under the MIT license.
+This template is available under the CC0 license.
