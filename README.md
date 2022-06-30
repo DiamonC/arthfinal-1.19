@@ -10,8 +10,8 @@ This template is available under the MIT license.
 
 ## Planned Features
 
--Grants creative flight upon crafting (for now)
--Achievnment upon crafting
--Enchantnment Glint
+-Grant creative flight upon crafting (for now)  
+-Achievnment upon crafting  
+-Enchantnment Glint  
 
 Feel free to commit as long as it is twords a planned feature.
