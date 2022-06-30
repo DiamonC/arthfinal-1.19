@@ -22,7 +22,7 @@
       "net.diamonc.arthfinal.ArthFinal"
     ],
     "client": [
-      "net.diamonc.arthfinal.TutorialModClient"
+      "net.diamonc.arthfinal.ArthFinalClient"
     ]
   },
   "mixins": [
